@@ -2,5 +2,12 @@
   "users": [],
   "hotels": [
     
+  ],
+  "locations": [
+    { "lat": 25.3162, "lng": 73.002701, "name": "Takhatgarh" },
+    { "lat": 26.238947, "lng": 73.024307, "name": "Jodhpur" },
+    { "lat": 26.912434, "lng": 75.78727, "name": "Jaipur" },
+    { "lat": 28.70406, "lng": 77.102493, "name": "Delhi" },
+    { "lat": 19.075983, "lng": 72.877655, "name": "Mumbai" }
   ]
 }
